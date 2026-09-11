@@ -864,6 +864,12 @@ img
     position: absolute;
 }
 
+.timeline {
+    overflow: visible !important;
+    height: auto !important;
+}
+
+
 .about-section .timeline .timeline-item
 {
     flex: 0 0 100%;
